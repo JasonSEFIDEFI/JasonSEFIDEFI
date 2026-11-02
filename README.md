@@ -1,4 +1,5 @@
-# Jason Duran Dutton
+# SEFI Research Program
+Jason Duran Dutton
 
 **BSIT student | Independent researcher | Scientific software**
 
