@@ -5,7 +5,7 @@ Jason Duran Dutton
 
 ## Current education
 
-I am currently enrolled at **American InterContinental University (AIU)**, pursuing a **Bachelor of Science in Information Technology (BSIT)**. My degree is in progress.
+I am currently enrolled at **American InterContinental University (AIU)**, pursuing a **Bachelor of Science in Information Technology (BSIT)**. My degree is in progress. After completing my BSIT, I plan to continue at AIU to pursue a **Master of Science in Information Technology (MSIT)**. The MSIT is a planned future degree; I am not currently enrolled in that program and have not earned it.
 
 ## Long-term goal: a PhD in computational physics
 
