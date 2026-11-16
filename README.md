@@ -1,15 +1,15 @@
 # SEFI Research Program
 Jason Duran Dutton
 
-**BSIT student | Independent researcher | Scientific software**
+**BSIT → MSIT academic pathway | Independent researcher | Scientific software**
 
 ## Current education
 
-I am currently enrolled at **American InterContinental University (AIU)**, pursuing a **Bachelor of Science in Information Technology (BSIT)**. I plan to continue at AIU through a **Master of Science in Information Technology (MSIT)**.
+I am enrolled at **American InterContinental University (AIU)**, currently pursuing the **Bachelor of Science in Information Technology (BSIT)**, with the intention of continuing directly through the **Master of Science in Information Technology (MSIT)**. My academic plan does **not** end with the bachelor's degree.
 
 ## Long-term goal: a PhD in computational physics
 
-I am building a path from information technology and scientific software toward advanced study in computational physics. My current BSIT studies support the computing foundation I want to bring to future research, alongside further preparation in mathematics, numerical methods, and physics.
+I am building a path from information technology and scientific software toward advanced study in computational physics. My BSIT-to-MSIT academic pathway supports the computing foundation I want to bring to future research, alongside further preparation in mathematics, numerical methods, and physics.
 
 My preparation priorities include programming, algorithms, data analysis, calculus, linear algebra, differential equations, and theoretical physics. These are development goals; my current enrollment is in the bachelor's program, and doctoral study is a future goal.
 
